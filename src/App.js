@@ -1,8 +1,8 @@
 import React from 'react';
-import {EventData2} from './event-data'
+import MessageBox from './state-func'
 
 function App() {
-  return <EventData2/>
+  return <MessageBox/>
 }
 
 export default App;
